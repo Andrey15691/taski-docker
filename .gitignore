@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.env
 
 # C extensions
 *.so
@@ -128,4 +129,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-frontend/node_modules
+/node_modules
